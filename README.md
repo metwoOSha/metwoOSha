@@ -101,7 +101,11 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 Full-stack e-commerce storefront with JWT auth, a persistent server-synced cart, and paginated, filterable product listings. MVC backend (Express + Prisma) with a normalized PostgreSQL schema, deployed on Vercel with Neon serverless Postgres.
 
-![WarmHeart home page](https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/warm-heart/home.png)
+<p>
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/warm-heart/home.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/warm-heart/shop.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/warm-heart/product.png" width="270" />
+</p>
 
 ---
 
