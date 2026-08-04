@@ -47,8 +47,6 @@
 
 ### 🚀 Pet projects
 
-<br>
-
 ### 🌌 NebulaX — Real-time Chat App
 
 [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
@@ -61,11 +59,9 @@ Test account: `test.acc@test.com` / `12345678`
 
 <!-- screenshot placeholder: docs/nebulax-1.png -->
 
-<br>
 
 ---
 
-<br>
 
 ### 🩺 MediFlow — Full Stack CRM
 
@@ -79,11 +75,11 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 <!-- screenshot placeholder: docs/mediflow-1.png -->
 
-<br>
+
 
 ---
 
-<br>
+
 
 ### 🛍️ WarmHeart 2.0 — E-commerce
 
