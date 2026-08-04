@@ -1,6 +1,6 @@
 ### 👋 Hi, my name is Dmytro
 
-🔭 Fullstack Web Developer, TS, JS, Next.js, Node.js — moving toward backend-focused roles
+🔭 Fullstack Web Developer, TS, JS, Next.js, Node.js
 
 ---
 
