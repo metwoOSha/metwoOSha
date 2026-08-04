@@ -51,7 +51,7 @@
 
 ### 🌌 NebulaX — Real-time Chat App
 
-[![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
 [![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://nebulax-snowy.vercel.app/)
 
@@ -73,7 +73,7 @@ Test account: `test.acc@test.com` / `12345678`
 
 ### 🩺 MediFlow — Full Stack CRM
 
-[![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
 [![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://mediflowfe.vercel.app)
 
@@ -95,7 +95,7 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 ### 🛍️ WarmHeart 2.0 — E-commerce
 
-[![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
 [![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://warm-heart.vercel.app/)
 
