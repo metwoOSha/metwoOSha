@@ -47,6 +47,8 @@
 
 ### 🚀 Pet projects
 
+<br>
+
 ### 🌌 NebulaX — Real-time Chat App
 
 [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
@@ -57,11 +59,17 @@ Real-time chat platform with public rooms, built on WebSockets (Socket.io) and R
 
 Test account: `test.acc@test.com` / `12345678`
 
-<!-- screenshot placeholder: docs/nebulax-1.png -->
+<p>
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/nebulaX/rooms-list-dark.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/nebulaX/chat-room.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/nebulaX/room-card-hover.png" width="270" />
+</p>
 
+<br>
 
 ---
 
+<br>
 
 ### 🩺 MediFlow — Full Stack CRM
 
@@ -73,13 +81,17 @@ Full-stack doctor and appointment management system built end-to-end from schema
 
 Test account: `demo@mediflow.com` / `Demo1234`
 
-<!-- screenshot placeholder: docs/mediflow-1.png -->
+<p>
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/mediflow/dashboard.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/mediflow/doctors.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/mediflow/schedule-modal.png" width="270" />
+</p>
 
-
+<br>
 
 ---
 
-
+<br>
 
 ### 🛍️ WarmHeart 2.0 — E-commerce
 
@@ -89,7 +101,7 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 Full-stack e-commerce storefront with JWT auth, a persistent server-synced cart, and paginated, filterable product listings. MVC backend (Express + Prisma) with a normalized PostgreSQL schema, deployed on Vercel with Neon serverless Postgres.
 
-<!-- screenshot placeholder: docs/warmheart-1.png -->
+![WarmHeart home page](https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/warm-heart/home.png)
 
 ---
 
