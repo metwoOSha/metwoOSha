@@ -39,14 +39,6 @@
 
 ### 🚀 Pet projects:
 
-**MediFlow — Full Stack CRM**
-[![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
-[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_BE)
-[![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://mediflowfe.vercel.app)
-
-Full-stack doctor and appointment management system built end-to-end from schema to UI. Appointment slots are generated per-doctor from working hours and existing bookings, with filtering and search state stored in the URL for shareable views. JWT auth protects role-specific routes; an AI-powered (Gemini API) pipeline seeds realistic demo data for doctors, clinics, and appointments. Backend uses raw `pg` (no ORM) to deepen SQL understanding.
-Test account: `demo@mediflow.com` / `Demo1234`
-
 **NebulaX — Real-time Chat App**
 [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
 [![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_BE)
@@ -54,6 +46,14 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 Real-time chat platform with public rooms, built on WebSockets (Socket.io) and Redis Pub/Sub for message fan-out across server instances. Chat history is paginated with TanStack Query's `useInfiniteQuery` and stays in sync with live socket events; auth uses JWT (httpOnly cookies) with Zustand for UI state. Includes a custom design system (IconBadge, IconButton, CardBadge) with CSS Modules and a persisted theme, styled around a cosmic/aurora "Liquid Glass" look. Backend: Express + TypeScript, Zod-validated REST endpoints, Swagger docs, Docker Compose for local services.
 Test account: `test.acc@test.com` / `12345678`
+
+**MediFlow — Full Stack CRM**
+[![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
+[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_BE)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://mediflowfe.vercel.app)
+
+Full-stack doctor and appointment management system built end-to-end from schema to UI. Appointment slots are generated per-doctor from working hours and existing bookings, with filtering and search state stored in the URL for shareable views. JWT auth protects role-specific routes; an AI-powered (Gemini API) pipeline seeds realistic demo data for doctors, clinics, and appointments. Backend uses raw `pg` (no ORM) to deepen SQL understanding.
+Test account: `demo@mediflow.com` / `Demo1234`
 
 **WarmHeart 2.0 — E-commerce**
 [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
