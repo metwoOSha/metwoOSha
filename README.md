@@ -98,7 +98,8 @@ Test account: `demo@mediflow.com` / `Demo1234`
 ### 🛍️ WarmHeart 2.0 — E-commerce
 
 **🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
-[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE)
+[![BE (Express)](https://img.shields.io/badge/BE%20(Express)-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE)
+[![BE (NestJS)](https://img.shields.io/badge/BE%20(NestJS)-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE_NestJS)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://warm-heart.vercel.app/)
 
 Full-stack e-commerce storefront with JWT auth, a persistent server-synced cart, and paginated, filterable product listings. MVC backend (Express + Prisma) with a normalized PostgreSQL schema, deployed on Vercel with Neon serverless Postgres.
