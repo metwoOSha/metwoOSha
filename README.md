@@ -53,8 +53,8 @@
 
 ### 🔗 Squisher — Link Shortener
 
-**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/Squisher_FE)
-[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/Squisher_BE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://github.com/metwoOSha/Squisher_FE)
+[![BE](https://img.shields.io/badge/BE-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/metwoOSha/Squisher_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://squisher-kappa.vercel.app/)
 
 URL shortener with per-link click tracking, built so an account is optional: a guest shortens a link and owns it through an `anonId` cookie, then keeps it after registering. Auth is a cookie question end to end — httpOnly JWT set by NestJS, `credentials: 'include'` on the client, no token ever touching client JS. The API returns click counts with the link list (Prisma `_count`) instead of a per-link stats call, and serves short links from the root (`/:shortCode`) while leaving other routes reachable. Frontend is React 19 + Vite with CSS Modules over design tokens and a runtime-swappable accent; no UI, state or CSS framework. Backend: NestJS 11, Prisma 7, Neon Postgres, Swagger, rate limiting.
@@ -75,8 +75,8 @@ Test account: `demo@squisher.com` / `Demo1234`
 
 ### 🌌 NebulaX — Real-time Chat App
 
-**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
-[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_BE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
+[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/metwoOSha/NebulaX_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://nebulax-snowy.vercel.app/)
 
 Real-time chat platform with public rooms, built on WebSockets (Socket.io) and Redis Pub/Sub for message fan-out across server instances. Chat history is paginated with TanStack Query's `useInfiniteQuery` and stays in sync with live socket events; auth uses JWT (httpOnly cookies) with Zustand for UI state. Includes a custom design system (IconBadge, IconButton, CardBadge) with CSS Modules and a persisted theme, styled around a cosmic/aurora "Liquid Glass" look. Backend: Express + TypeScript, Zod-validated REST endpoints, Swagger docs, Docker Compose for local services.
@@ -97,8 +97,8 @@ Test account: `test.acc@test.com` / `12345678`
 
 ### 🩺 MediFlow — Full Stack CRM
 
-**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
-[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/MediFlow_BE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/metwoOSha/MediFlow_FE)
+[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/metwoOSha/MediFlow_BE)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://mediflowfe.vercel.app)
 
 Full-stack doctor and appointment management system built end-to-end from schema to UI. Appointment slots are generated per-doctor from working hours and existing bookings, with filtering and search state stored in the URL for shareable views. JWT auth protects role-specific routes; an AI-powered (Gemini API) pipeline seeds realistic demo data for doctors, clinics, and appointments. Backend uses raw `pg` (no ORM) to deepen SQL understanding.
@@ -119,8 +119,8 @@ Test account: `demo@mediflow.com` / `Demo1234`
 
 ### 🛍️ WarmHeart 2.0 — E-commerce
 
-**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
-[![BE (Express)](https://img.shields.io/badge/BE%20(Express)-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE)
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=nextdotjs&logoColor=white)](https://github.com/metwoOSha/WarmHeart_FE)
+[![BE (Express)](https://img.shields.io/badge/BE%20(Express)-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE)
 [![BE (NestJS)](https://img.shields.io/badge/BE%20(NestJS)-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/metwoOSha/WarmHeart_BE_NestJS)
 [![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://warm-heart.vercel.app/)
 
