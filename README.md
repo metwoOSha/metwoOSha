@@ -51,6 +51,28 @@
 
 <br>
 
+### 🔗 Squisher — Link Shortener
+
+**🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/Squisher_FE)
+[![BE](https://img.shields.io/badge/BE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/Squisher_BE)
+[![Live](https://img.shields.io/badge/LIVE%20DEMO-4285F4?style=flat-square&logo=vercel&logoColor=white)](https://squisher-kappa.vercel.app/)
+
+URL shortener with per-link click tracking, built so an account is optional: a guest shortens a link and owns it through an `anonId` cookie, then keeps it after registering. Auth is a cookie question end to end — httpOnly JWT set by NestJS, `credentials: 'include'` on the client, no token ever touching client JS. The API returns click counts with the link list (Prisma `_count`) instead of a per-link stats call, and serves short links from the root (`/:shortCode`) while leaving other routes reachable. Frontend is React 19 + Vite with CSS Modules over design tokens and a runtime-swappable accent; no UI, state or CSS framework. Backend: NestJS 11, Prisma 7, Neon Postgres, Swagger, rate limiting.
+
+Test account: `demo@squisher.com` / `Demo1234`
+
+<p>
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/squisher/home.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/squisher/result.png" width="270" />
+  <img src="https://raw.githubusercontent.com/metwoOSha/metwoOSha/main/docs/squisher/auth.png" width="270" />
+</p>
+
+<br>
+
+---
+
+<br>
+
 ### 🌌 NebulaX — Real-time Chat App
 
 **🔗 Links:** [![FE](https://img.shields.io/badge/FE-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/metwoOSha/NebulaX_FE)
