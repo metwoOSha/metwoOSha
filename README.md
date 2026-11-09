@@ -1,23 +1,30 @@
-<h1 align="center">Dmytro</h1>
+<h1 align="center">Hey, I'm Dmytro 👋</h1>
 
 <p align="center">
-  <b>Fullstack developer · TypeScript end to end</b><br>
-  I like the part of the stack where a UI meets an API and both have to agree.
+  <b>I turn ideas into working web apps — from the SQL table to the last pixel.</b><br>
+  TypeScript on both sides of the wire, and a soft spot for the part where the two have to agree.
 </p>
 
 <p align="center">
-  <a href="https://t.me/dima_mtv">Telegram</a> ·
-  <a href="mailto:dimadobrovolski@gmail.com">Email</a> ·
-  <a href="https://resume-drab-three-79.vercel.app/">Résumé</a>
+  💬 <a href="https://t.me/dima_mtv">Telegram</a> &nbsp;·&nbsp;
+  ✉️ <a href="mailto:dimadobrovolski@gmail.com">Email</a> &nbsp;·&nbsp;
+  📄 <a href="https://resume-drab-three-79.vercel.app/">Résumé</a>
 </p>
 
 ---
 
-## About
+## A bit about me
 
-I build web apps from the database schema up to the interface: React and Next.js on the client, Node.js (Express and NestJS) on the server, PostgreSQL and Redis underneath.
+I started out with React and Next.js on the frontend, and lately the backend keeps pulling me in. By day I work on a real production Next.js codebase; in my free time I build full-stack projects to find out how things actually work under the hood — and, honestly, to see what breaks.
 
-My day job is a production Next.js codebase, and my pet projects are where I go deeper on the backend side: auth with httpOnly cookies, real-time messaging with Redis Pub/Sub, raw SQL without an ORM, and slot scheduling logic. Each project below ships with a live demo and a test account, so you can click through it instead of taking my word for it.
+**What I'm geeking out on right now:**
+
+- 🔐 Auth that doesn't leak: httpOnly cookies, JWT, guests who become users
+- ⚡ Real-time stuff: WebSockets and Redis Pub/Sub
+- 🗄️ SQL with no safety net: raw `pg`, no ORM, to really understand it
+- 🎨 Small UI details: design tokens, themes, a bit of "Liquid Glass"
+
+Every project below has a live demo and a test account, so go ahead, click around and try to break it 🙂
 
 ## Stack
 
