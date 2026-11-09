@@ -1,30 +1,12 @@
 <h1 align="center">Hey, I'm Dmytro 👋</h1>
 
 <p align="center">
-  <b>I turn ideas into working web apps — from the SQL table to the last pixel.</b><br>
-  TypeScript on both sides of the wire, and a soft spot for the part where the two have to agree.
-</p>
-
-<p align="center">
   💬 <a href="https://t.me/dima_mtv">Telegram</a> &nbsp;·&nbsp;
   ✉️ <a href="mailto:dimadobrovolski@gmail.com">Email</a> &nbsp;·&nbsp;
   📄 <a href="https://resume-drab-three-79.vercel.app/">Résumé</a>
 </p>
 
 ---
-
-## A bit about me
-
-I started out with React and Next.js on the frontend, and lately the backend keeps pulling me in. By day I work on a real production Next.js codebase; in my free time I build full-stack projects to find out how things actually work under the hood — and, honestly, to see what breaks.
-
-**What I'm geeking out on right now:**
-
-- 🔐 Auth that doesn't leak: httpOnly cookies, JWT, guests who become users
-- ⚡ Real-time stuff: WebSockets and Redis Pub/Sub
-- 🗄️ SQL with no safety net: raw `pg`, no ORM, to really understand it
-- 🎨 Small UI details: design tokens, themes, a bit of "Liquid Glass"
-
-Every project below has a live demo and a test account, so go ahead, click around and try to break it 🙂
 
 ## Stack
 
